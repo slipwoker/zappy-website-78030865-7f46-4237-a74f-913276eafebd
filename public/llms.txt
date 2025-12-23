@@ -1,0 +1,67 @@
+# 1iT — Generative Engine Optimization Map
+
+> 1iT is a leading Israeli IT support services provider, offering advanced computing, communication, cybersecurity, and infrastructure solutions for businesses. With over 30 years of experience, we provide proactive maintenance, cloud services, server infrastructure, and tailored IT solutions. Our strategic partnerships with Microsoft, Google, Acronis, SentinelOne, and Fortinet ensure top-tier services for startups, high-tech firms, law offices, and more.
+
+---
+
+## Pages
+
+### Home
+https://1it-78030865.zappy5.app
+Discover expert Google Cloud services and managed IT solutions that deliver real results. Contact 1iT today for comprehensive IT infrastructure support!
+
+### Services
+https://1it-78030865.zappy5.app/services
+Comprehensive IT infrastructure services including Google Cloud services, cybersecurity, server infrastructure, and OneDrive solutions. Expert MSP support for your business.
+
+### About
+https://1it-78030865.zappy5.app/about
+Learn about 1iT, Israel's leading managed service provider with over 30 years of delivering expert Google Cloud services and IT infrastructure solutions.
+
+### Contact
+https://1it-78030865.zappy5.app/contact
+Get in touch with 1iT for expert Google Cloud services, IT infrastructure support, and managed service provider solutions. Schedule your consultation today!
+
+## Legal & Policy
+
+### Privacy Policy
+https://1it-78030865.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://1it-78030865.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://1it-78030865.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About 1iT
+1iT is a leading Israeli IT support services provider, offering advanced computing, communication, cybersecurity, and infrastructure solutions for businesses. With over 30 years of experience, we provide proactive maintenance, cloud services, server infrastructure, and tailored IT solutions. Our strategic partnerships with Microsoft, Google, Acronis, SentinelOne, and Fortinet ensure top-tier services for startups, high-tech firms, law offices, and more.
+
+## Services/Products
+- Hardware & Software for All Your IT Needs
+- Proactive IT Support
+- Consulting & Deployment
+- Custom IT Solutions
+- Cloud Services
+- Server Infrastructure
+- Cybersecurity
+- Communication Solutions
+
+## Target Audience
+customers seeking IT infrastructure solutions
+
+## Industry
+IT Services
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://1it-78030865.zappy5.app/sitemap.xml
+- **Robots.txt**: https://1it-78030865.zappy5.app/robots.txt
